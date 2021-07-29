@@ -1,0 +1,41 @@
+.caroline{
+    background: white;
+    color: thistle;
+}
+
+body{
+    background:  violet;
+}
+
+.caroline img{
+    width: 100px;
+}
+
+.hannah{
+    background: palevioletred;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.hannah label{
+    background:white;
+    padding: 10px;
+    margin-bottom: 0px;
+    width: 310px;
+    box-shadow: 5px 5px 18px turquoise;
+}
+
+#camera{
+    border:2px solid white;
+    height: 300px;
+    width: 310px;
+    box-shadow: 5px 5px 18px turquoise;
+}
+
+.hannah button{
+    border: 1px solid white;
+    font-size: 16px;
+    width: 310px;
+    box-shadow: 5px 5px 18px turquoise;
+}
